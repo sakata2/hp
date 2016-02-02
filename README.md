@@ -2,7 +2,7 @@
 gh-pagesのテスト
 
 
-    git clohe https://github.com/shimarisu/hp.git
+    git clone https://github.com/shimarisu/hp.git
     git branch gh-pages
     git checkout gh-pages
     index.html を作成
